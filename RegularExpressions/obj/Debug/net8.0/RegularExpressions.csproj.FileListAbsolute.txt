@@ -1,0 +1,14 @@
+C:\Users\Musat\source\repos\RegularExpressions\bin\Debug\net8.0\RegularExpressions.exe
+C:\Users\Musat\source\repos\RegularExpressions\bin\Debug\net8.0\RegularExpressions.deps.json
+C:\Users\Musat\source\repos\RegularExpressions\bin\Debug\net8.0\RegularExpressions.runtimeconfig.json
+C:\Users\Musat\source\repos\RegularExpressions\bin\Debug\net8.0\RegularExpressions.dll
+C:\Users\Musat\source\repos\RegularExpressions\bin\Debug\net8.0\RegularExpressions.pdb
+C:\Users\Musat\source\repos\RegularExpressions\obj\Debug\net8.0\RegularExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Musat\source\repos\RegularExpressions\obj\Debug\net8.0\RegularExpressions.AssemblyInfoInputs.cache
+C:\Users\Musat\source\repos\RegularExpressions\obj\Debug\net8.0\RegularExpressions.AssemblyInfo.cs
+C:\Users\Musat\source\repos\RegularExpressions\obj\Debug\net8.0\RegularExpressions.csproj.CoreCompileInputs.cache
+C:\Users\Musat\source\repos\RegularExpressions\obj\Debug\net8.0\RegularExpressions.dll
+C:\Users\Musat\source\repos\RegularExpressions\obj\Debug\net8.0\refint\RegularExpressions.dll
+C:\Users\Musat\source\repos\RegularExpressions\obj\Debug\net8.0\RegularExpressions.pdb
+C:\Users\Musat\source\repos\RegularExpressions\obj\Debug\net8.0\RegularExpressions.genruntimeconfig.cache
+C:\Users\Musat\source\repos\RegularExpressions\obj\Debug\net8.0\ref\RegularExpressions.dll

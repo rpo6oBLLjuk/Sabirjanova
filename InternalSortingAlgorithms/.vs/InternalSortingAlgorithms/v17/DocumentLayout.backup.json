@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\InternalSortingAlgorithms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B83062DB-0C14-4EA0-9197-A55259974568}|InternalSortingAlgorithms.csproj|c:\\users\\admin\\source\\repos\\internalsortingalgorithms\\heapsorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B83062DB-0C14-4EA0-9197-A55259974568}|InternalSortingAlgorithms.csproj|solutionrelative:heapsorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B83062DB-0C14-4EA0-9197-A55259974568}|InternalSortingAlgorithms.csproj|c:\\users\\admin\\source\\repos\\internalsortingalgorithms\\shellsorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B83062DB-0C14-4EA0-9197-A55259974568}|InternalSortingAlgorithms.csproj|solutionrelative:shellsorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B83062DB-0C14-4EA0-9197-A55259974568}|InternalSortingAlgorithms.csproj|c:\\users\\admin\\source\\repos\\internalsortingalgorithms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B83062DB-0C14-4EA0-9197-A55259974568}|InternalSortingAlgorithms.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShellSorter.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\InternalSortingAlgorithms\\ShellSorter.cs",
+              "RelativeDocumentMoniker": "ShellSorter.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\InternalSortingAlgorithms\\ShellSorter.cs",
+              "RelativeToolTip": "ShellSorter.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T16:19:24.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HeapSorter.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\InternalSortingAlgorithms\\HeapSorter.cs",
+              "RelativeDocumentMoniker": "HeapSorter.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\InternalSortingAlgorithms\\HeapSorter.cs",
+              "RelativeToolTip": "HeapSorter.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T16:00:38.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\InternalSortingAlgorithms\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\InternalSortingAlgorithms\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T07:08:19.771Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

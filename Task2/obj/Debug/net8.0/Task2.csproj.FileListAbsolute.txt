@@ -1,0 +1,14 @@
+G:\Мой диск\Колледж\Практики\Курс 3\Сабиржанова\Task2\bin\Debug\net8.0\Task2.exe
+G:\Мой диск\Колледж\Практики\Курс 3\Сабиржанова\Task2\bin\Debug\net8.0\Task2.deps.json
+G:\Мой диск\Колледж\Практики\Курс 3\Сабиржанова\Task2\bin\Debug\net8.0\Task2.runtimeconfig.json
+G:\Мой диск\Колледж\Практики\Курс 3\Сабиржанова\Task2\bin\Debug\net8.0\Task2.dll
+G:\Мой диск\Колледж\Практики\Курс 3\Сабиржанова\Task2\bin\Debug\net8.0\Task2.pdb
+G:\Мой диск\Колледж\Практики\Курс 3\Сабиржанова\Task2\obj\Debug\net8.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+G:\Мой диск\Колледж\Практики\Курс 3\Сабиржанова\Task2\obj\Debug\net8.0\Task2.AssemblyInfoInputs.cache
+G:\Мой диск\Колледж\Практики\Курс 3\Сабиржанова\Task2\obj\Debug\net8.0\Task2.AssemblyInfo.cs
+G:\Мой диск\Колледж\Практики\Курс 3\Сабиржанова\Task2\obj\Debug\net8.0\Task2.csproj.CoreCompileInputs.cache
+G:\Мой диск\Колледж\Практики\Курс 3\Сабиржанова\Task2\obj\Debug\net8.0\Task2.dll
+G:\Мой диск\Колледж\Практики\Курс 3\Сабиржанова\Task2\obj\Debug\net8.0\refint\Task2.dll
+G:\Мой диск\Колледж\Практики\Курс 3\Сабиржанова\Task2\obj\Debug\net8.0\Task2.pdb
+G:\Мой диск\Колледж\Практики\Курс 3\Сабиржанова\Task2\obj\Debug\net8.0\Task2.genruntimeconfig.cache
+G:\Мой диск\Колледж\Практики\Курс 3\Сабиржанова\Task2\obj\Debug\net8.0\ref\Task2.dll

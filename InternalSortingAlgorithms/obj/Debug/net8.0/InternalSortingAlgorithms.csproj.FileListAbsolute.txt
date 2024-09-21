@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\InternalSortingAlgorithms\bin\Debug\net8.0\InternalSortingAlgorithms.exe
+C:\Users\Admin\source\repos\InternalSortingAlgorithms\bin\Debug\net8.0\InternalSortingAlgorithms.deps.json
+C:\Users\Admin\source\repos\InternalSortingAlgorithms\bin\Debug\net8.0\InternalSortingAlgorithms.runtimeconfig.json
+C:\Users\Admin\source\repos\InternalSortingAlgorithms\bin\Debug\net8.0\InternalSortingAlgorithms.dll
+C:\Users\Admin\source\repos\InternalSortingAlgorithms\bin\Debug\net8.0\InternalSortingAlgorithms.pdb
+C:\Users\Admin\source\repos\InternalSortingAlgorithms\obj\Debug\net8.0\InternalSortingAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\InternalSortingAlgorithms\obj\Debug\net8.0\InternalSortingAlgorithms.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\InternalSortingAlgorithms\obj\Debug\net8.0\InternalSortingAlgorithms.AssemblyInfo.cs
+C:\Users\Admin\source\repos\InternalSortingAlgorithms\obj\Debug\net8.0\InternalSortingAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\InternalSortingAlgorithms\obj\Debug\net8.0\InternalSortingAlgorithms.dll
+C:\Users\Admin\source\repos\InternalSortingAlgorithms\obj\Debug\net8.0\refint\InternalSortingAlgorithms.dll
+C:\Users\Admin\source\repos\InternalSortingAlgorithms\obj\Debug\net8.0\InternalSortingAlgorithms.pdb
+C:\Users\Admin\source\repos\InternalSortingAlgorithms\obj\Debug\net8.0\InternalSortingAlgorithms.genruntimeconfig.cache
+C:\Users\Admin\source\repos\InternalSortingAlgorithms\obj\Debug\net8.0\ref\InternalSortingAlgorithms.dll
