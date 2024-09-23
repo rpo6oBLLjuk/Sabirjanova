@@ -6,16 +6,21 @@ namespace InternalSortingAlgorithms
     {
         private static readonly HeapSorter heapSorter = new();
         private static readonly ShellSorter shellSorter = new();
+        private static readonly QuickSorter quickSorter = new();
+        private static readonly MergeSorter mergeSorter = new();
 
         public static int[,] BaseMatrix
         {
-            get 
+            get
             {
+                Console.ForegroundColor = ConsoleColor.DarkGray;
                 Console.WriteLine("Матрица сброшена до базовой"); Console.WriteLine();
+                Console.ForegroundColor = ConsoleColor.White;
+
                 return (int[,])baseMatrix.Clone(); //boxing|unboxing
-            } 
+            }
         }
-        private static int[,] baseMatrix = {
+        private static readonly int[,] baseMatrix = {
                 { 12, 11, 13 },
                 { 5, 6, 7 },
                 { 1, 9, 10 }};
@@ -32,6 +37,14 @@ namespace InternalSortingAlgorithms
             testMatrix = BaseMatrix;
             shellSorter.Sort(testMatrix);
             PrintMatrix<ShellSorter>(testMatrix);
+
+            testMatrix = BaseMatrix;
+            quickSorter.Sort(testMatrix);
+            PrintMatrix<QuickSorter>(testMatrix);
+
+            testMatrix = BaseMatrix;
+            mergeSorter.Sort(testMatrix);
+            PrintMatrix<MergeSorter>(testMatrix);
         }
 
         private static void PrintMatrix<T>(int[,] matrix)

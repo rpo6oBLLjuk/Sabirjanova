@@ -7,12 +7,20 @@
       "RelativeMoniker": "D:0:0:{B83062DB-0C14-4EA0-9197-A55259974568}|InternalSortingAlgorithms.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B83062DB-0C14-4EA0-9197-A55259974568}|InternalSortingAlgorithms.csproj|c:\\users\\musat\\documents\\github\\sabirjanova\\internalsortingalgorithms\\heapsorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B83062DB-0C14-4EA0-9197-A55259974568}|InternalSortingAlgorithms.csproj|solutionrelative:heapsorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B83062DB-0C14-4EA0-9197-A55259974568}|InternalSortingAlgorithms.csproj|c:\\users\\musat\\documents\\github\\sabirjanova\\internalsortingalgorithms\\shellsorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B83062DB-0C14-4EA0-9197-A55259974568}|InternalSortingAlgorithms.csproj|solutionrelative:shellsorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B83062DB-0C14-4EA0-9197-A55259974568}|InternalSortingAlgorithms.csproj|c:\\users\\musat\\documents\\github\\sabirjanova\\internalsortingalgorithms\\mergesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B83062DB-0C14-4EA0-9197-A55259974568}|InternalSortingAlgorithms.csproj|solutionrelative:mergesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B83062DB-0C14-4EA0-9197-A55259974568}|InternalSortingAlgorithms.csproj|c:\\users\\musat\\documents\\github\\sabirjanova\\internalsortingalgorithms\\quicksorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B83062DB-0C14-4EA0-9197-A55259974568}|InternalSortingAlgorithms.csproj|solutionrelative:quicksorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B83062DB-0C14-4EA0-9197-A55259974568}|InternalSortingAlgorithms.csproj|c:\\users\\musat\\documents\\github\\sabirjanova\\internalsortingalgorithms\\heapsorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B83062DB-0C14-4EA0-9197-A55259974568}|InternalSortingAlgorithms.csproj|solutionrelative:heapsorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,29 +30,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "MergeSort.cs",
+              "DocumentMoniker": "C:\\Users\\Musat\\Documents\\GitHub\\Sabirjanova\\InternalSortingAlgorithms\\MergeSort.cs",
+              "RelativeDocumentMoniker": "MergeSort.cs",
+              "ToolTip": "C:\\Users\\Musat\\Documents\\GitHub\\Sabirjanova\\InternalSortingAlgorithms\\MergeSort.cs",
+              "RelativeToolTip": "MergeSort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T07:35:32.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuickSorter.cs",
+              "DocumentMoniker": "C:\\Users\\Musat\\Documents\\GitHub\\Sabirjanova\\InternalSortingAlgorithms\\QuickSorter.cs",
+              "RelativeDocumentMoniker": "QuickSorter.cs",
+              "ToolTip": "C:\\Users\\Musat\\Documents\\GitHub\\Sabirjanova\\InternalSortingAlgorithms\\QuickSorter.cs",
+              "RelativeToolTip": "QuickSorter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T07:28:31.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ShellSorter.cs",
               "DocumentMoniker": "C:\\Users\\Musat\\Documents\\GitHub\\Sabirjanova\\InternalSortingAlgorithms\\ShellSorter.cs",
               "RelativeDocumentMoniker": "ShellSorter.cs",
               "ToolTip": "C:\\Users\\Musat\\Documents\\GitHub\\Sabirjanova\\InternalSortingAlgorithms\\ShellSorter.cs",
               "RelativeToolTip": "ShellSorter.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAuwA4AAAAuAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T16:19:24.046Z"
+              "WhenOpened": "2024-09-18T16:19:24.046Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "HeapSorter.cs",
               "DocumentMoniker": "C:\\Users\\Musat\\Documents\\GitHub\\Sabirjanova\\InternalSortingAlgorithms\\HeapSorter.cs",
               "RelativeDocumentMoniker": "HeapSorter.cs",
               "ToolTip": "C:\\Users\\Musat\\Documents\\GitHub\\Sabirjanova\\InternalSortingAlgorithms\\HeapSorter.cs",
               "RelativeToolTip": "HeapSorter.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-18T16:00:38.505Z",
               "EditorCaption": ""
@@ -57,7 +92,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Musat\\Documents\\GitHub\\Sabirjanova\\InternalSortingAlgorithms\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-13T07:08:19.771Z",
               "EditorCaption": ""
