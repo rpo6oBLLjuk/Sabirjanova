@@ -61,7 +61,7 @@
 
             Console.WriteLine();
 
-            for (int i = 0; i < BoardMatrix.GetLength(0); i++)
+            for (int i = 0; i < BoardMatrix.GetLength(1); i++)
                 Console.Write(" —");
             Console.WriteLine();
 
@@ -70,14 +70,14 @@
                 Console.Write("|");
                 for (int y = 0; y < BoardMatrix.GetLength(1); y++)
                 {
-                    Console.Write(BoardMatrix[x, y].CellVisual + "");
+                    Console.Write(BoardMatrix[x, y].CellVisual);
                 }
                 Console.Write("|");
 
                 Console.WriteLine();
             }
 
-            for (int i = 0; i < BoardMatrix.GetLength(0); i++)
+            for (int i = 0; i < BoardMatrix.GetLength(1); i++)
                 Console.Write(" —");
             Console.WriteLine("\n");
 

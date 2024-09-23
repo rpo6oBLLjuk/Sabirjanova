@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Musat\\source\\repos\\NavalBattle\\",
+  "WorkspaceRootPath": "C:\\Users\\Musat\\Documents\\GitHub\\Sabirjanova\\NavalBattle\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{32E75ED2-9B0C-4C1C-9563-BF5E1D09DE6C}|NavalBattle.csproj|c:\\users\\musat\\source\\repos\\navalbattle\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32E75ED2-9B0C-4C1C-9563-BF5E1D09DE6C}|NavalBattle.csproj|c:\\users\\musat\\documents\\github\\sabirjanova\\navalbattle\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32E75ED2-9B0C-4C1C-9563-BF5E1D09DE6C}|NavalBattle.csproj|solutionrelative:board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32E75ED2-9B0C-4C1C-9563-BF5E1D09DE6C}|NavalBattle.csproj|c:\\users\\musat\\source\\repos\\navalbattle\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32E75ED2-9B0C-4C1C-9563-BF5E1D09DE6C}|NavalBattle.csproj|solutionrelative:cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32E75ED2-9B0C-4C1C-9563-BF5E1D09DE6C}|NavalBattle.csproj|c:\\users\\musat\\source\\repos\\navalbattle\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32E75ED2-9B0C-4C1C-9563-BF5E1D09DE6C}|NavalBattle.csproj|c:\\users\\musat\\documents\\github\\sabirjanova\\navalbattle\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32E75ED2-9B0C-4C1C-9563-BF5E1D09DE6C}|NavalBattle.csproj|solutionrelative:gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32E75ED2-9B0C-4C1C-9563-BF5E1D09DE6C}|NavalBattle.csproj|c:\\users\\musat\\source\\repos\\navalbattle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32E75ED2-9B0C-4C1C-9563-BF5E1D09DE6C}|NavalBattle.csproj|c:\\users\\musat\\documents\\github\\sabirjanova\\navalbattle\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E75ED2-9B0C-4C1C-9563-BF5E1D09DE6C}|NavalBattle.csproj|solutionrelative:cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E75ED2-9B0C-4C1C-9563-BF5E1D09DE6C}|NavalBattle.csproj|c:\\users\\musat\\documents\\github\\sabirjanova\\navalbattle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32E75ED2-9B0C-4C1C-9563-BF5E1D09DE6C}|NavalBattle.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,50 +32,53 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Board.cs",
-              "DocumentMoniker": "C:\\Users\\Musat\\source\\repos\\NavalBattle\\Board.cs",
+              "DocumentMoniker": "C:\\Users\\Musat\\Documents\\GitHub\\Sabirjanova\\NavalBattle\\Board.cs",
               "RelativeDocumentMoniker": "Board.cs",
-              "ToolTip": "C:\\Users\\Musat\\source\\repos\\NavalBattle\\Board.cs",
-              "RelativeToolTip": "Board.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADIAAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Musat\\Documents\\GitHub\\Sabirjanova\\NavalBattle\\Board.cs*",
+              "RelativeToolTip": "Board.cs*",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEgAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-12T09:32:58.225Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Cell.cs",
-              "DocumentMoniker": "C:\\Users\\Musat\\source\\repos\\NavalBattle\\Cell.cs",
+              "DocumentMoniker": "C:\\Users\\Musat\\Documents\\GitHub\\Sabirjanova\\NavalBattle\\Cell.cs",
               "RelativeDocumentMoniker": "Cell.cs",
-              "ToolTip": "C:\\Users\\Musat\\source\\repos\\NavalBattle\\Cell.cs",
+              "ToolTip": "C:\\Users\\Musat\\Documents\\GitHub\\Sabirjanova\\NavalBattle\\Cell.cs",
               "RelativeToolTip": "Cell.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACoAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T08:24:28Z"
+              "WhenOpened": "2024-09-12T08:24:28Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "GameController.cs",
-              "DocumentMoniker": "C:\\Users\\Musat\\source\\repos\\NavalBattle\\GameController.cs",
+              "DocumentMoniker": "C:\\Users\\Musat\\Documents\\GitHub\\Sabirjanova\\NavalBattle\\GameController.cs",
               "RelativeDocumentMoniker": "GameController.cs",
-              "ToolTip": "C:\\Users\\Musat\\source\\repos\\NavalBattle\\GameController.cs",
+              "ToolTip": "C:\\Users\\Musat\\Documents\\GitHub\\Sabirjanova\\NavalBattle\\GameController.cs",
               "RelativeToolTip": "GameController.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAEwAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T07:54:04.207Z"
+              "WhenOpened": "2024-09-12T07:54:04.207Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Musat\\source\\repos\\NavalBattle\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Musat\\Documents\\GitHub\\Sabirjanova\\NavalBattle\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Musat\\source\\repos\\NavalBattle\\Program.cs",
+              "ToolTip": "C:\\Users\\Musat\\Documents\\GitHub\\Sabirjanova\\NavalBattle\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T07:43:23.61Z"
+              "WhenOpened": "2024-09-12T07:43:23.61Z",
+              "EditorCaption": ""
             }
           ]
         }

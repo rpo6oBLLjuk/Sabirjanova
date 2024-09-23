@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Musat\\source\\repos\\NavalBattle\\NavalBattle.csproj": {}
+    "C:\\Users\\Musat\\Documents\\GitHub\\Sabirjanova\\NavalBattle\\NavalBattle.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Musat\\source\\repos\\NavalBattle\\NavalBattle.csproj": {
+    "C:\\Users\\Musat\\Documents\\GitHub\\Sabirjanova\\NavalBattle\\NavalBattle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Musat\\source\\repos\\NavalBattle\\NavalBattle.csproj",
+        "projectUniqueName": "C:\\Users\\Musat\\Documents\\GitHub\\Sabirjanova\\NavalBattle\\NavalBattle.csproj",
         "projectName": "NavalBattle",
-        "projectPath": "C:\\Users\\Musat\\source\\repos\\NavalBattle\\NavalBattle.csproj",
+        "projectPath": "C:\\Users\\Musat\\Documents\\GitHub\\Sabirjanova\\NavalBattle\\NavalBattle.csproj",
         "packagesPath": "C:\\Users\\Musat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Musat\\source\\repos\\NavalBattle\\obj\\",
+        "outputPath": "C:\\Users\\Musat\\Documents\\GitHub\\Sabirjanova\\NavalBattle\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Musat\\AppData\\Roaming\\NuGet\\NuGet.Config",

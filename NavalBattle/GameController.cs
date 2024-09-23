@@ -14,7 +14,7 @@
         {
             get
             {
-                if(firstPlayerBoard == null)
+                if (firstPlayerBoard == null)
                 {
                     firstPlayerBoard = new(width, height);
                     firstPlayerBoard.color = firstPlayerColor;
@@ -40,6 +40,7 @@
         }
         private static Board secondPlayerBoard;
 
+
         public static void GameStart()
         {
             Turn();
@@ -59,7 +60,7 @@
                 return;
             }
 
-            Console.BackgroundColor = ConsoleColor.DarkYellow;
+            Console.ForegroundColor = ConsoleColor.DarkYellow;
             if (!value)
             {
                 firstPlayerTurn = !firstPlayerTurn;
@@ -71,7 +72,7 @@
                 Console.WriteLine($" - Ход игрока {(firstPlayerTurn ? 1 : 2)} продолжается");
             }
 
-            Console.BackgroundColor = ConsoleColor.Black;
+            Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine();
 
             Turn();
